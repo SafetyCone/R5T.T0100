@@ -1,0 +1,2 @@
+# R5T.T0100
+ExtensionMethodBase types.
