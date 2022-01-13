@@ -1,0 +1,3 @@
+R5T.T0100.X002 - Read/write extension method bases and extension method base name selection objects to/from files.
+
+GOALS:
